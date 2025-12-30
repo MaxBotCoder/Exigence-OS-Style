@@ -13,3 +13,6 @@ Credit to the Chromium Project contributors for the branding used to identify th
 Original Source: chromium.org
 License: The Chromium logo and branding are trademarks of the Chromium Open Source Project.
 Usage: The Chromium icon in this set is used for application identification and is based on the original project's visual assets.
+
+Who edited them and made the glass brick?
+ME!
